@@ -5,6 +5,7 @@
   "author": "kimihito <tatsurotamashiro@gmail.com>",
   "description": "My Friend",
   "dependencies": {
+    "hubot-docomo-dialogue": "git://github.com/kimihito/hubot-docomo-dialogue",
     "hubot-slack": "^3.3.0"
   },
   "engines": {
